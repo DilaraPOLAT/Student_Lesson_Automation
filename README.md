@@ -1,7 +1,7 @@
 # Student_Lesson_Automation
 **Kullanılan Teknolojiler**
 * Qt_Creater
-* SqlLite DataBase
+* SQLite DataBase
 * C++
 
 ***Ana Menü***
